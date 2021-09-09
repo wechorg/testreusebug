@@ -12,5 +12,5 @@ jobs:
       - name: Run a one-line script
         run: echo Hello, world!
   caller:
-     uses: fakename/random/.github/workflows/ci.yml@main
+     uses: wechorg/templateworkflows/.github/workflows/main.yml@main
    
